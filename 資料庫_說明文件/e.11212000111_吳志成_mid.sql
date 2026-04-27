@@ -5,7 +5,7 @@
 -- 學號: 1101234
 -- 姓名: 王小明
 
---    題目 1 : 請列出 ProductTbl 的以下欄位 chProdNo, chProdName, chUnit, rlStockQty, chCreatDateTime 
+--    題目 1 : 請列出 ProductTbl 的以下(指定的) 欄位 chProdNo, chProdName, chUnit, rlStockQty, chCreatDateTime 
 --             條件: chCreatDateTime 是最近3個月內建立的資料
 
 SELECT chProdNo, chProdName, chUnit, rlStockQty, chCreatDateTime  
